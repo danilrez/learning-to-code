@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.695228in" height="0.372224in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 32.38 17.34"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="703" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Segoe UI">
+		<font-face-src>
+			<font-face-name name="Segoe UI Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="4" horiz-adv-x="575" d="M464.839 700.167l0 -441.327 83.9871 0 0 -115.344 -83.9871 0 0 -143.497 -140.67 0 0 143.497 -305.181 0 0 120.668c27.0219,30.3437 55.0098,63.326 84.0106,99.3239 29.0009,36.0214 57.0123,73.0087 84.0106,111.174 26.9984,38.0003 52.1592,76.3305 75.4824,115.014 23.1819,38.4951 43.0184,75.3175 59.3446,110.491l143.002 0zm-307.678 -441.327l167.008 0 0 244.658c-11.3318,-21.1558 -23.6766,-42.665 -37.0109,-64.3391 -13.3343,-21.6505 -27.3282,-42.9948 -41.9818,-63.9857 -14.6771,-21.0144 -29.5192,-41.3457 -44.5026,-61.0173 -15.0069,-19.648 -29.4956,-38.1652 -43.5131,-55.316z"/>
+   <glyph unicode="k" horiz-adv-x="559" d="M566 0l-185.172 0 -159.658 248.003 -2.0025 0 0 -248.003 -154.169 0 0 740.17 154.169 0 0 -471.176 2.0025 0 148.986 231.018 183.005 0 -179.165 -234.834 192.004 -265.178z"/>
+   <glyph unicode="u" horiz-adv-x="604" d="M539.991 0l-153.815 0 0 76.1656 -2.33232 0c-38.1652,-58.8263 -89.0051,-88.3219 -152.849,-88.3219 -116.003,0 -173.817,70.1581 -173.817,210.498l0 301.67 153.815 0 0 -288.006c0,-70.6764 28.0114,-106.015 84.0106,-106.015 27.658,0 49.6619,9.68266 66.3416,29.0009 16.6561,19.3418 24.831,45.6805 24.831,78.8513l0 286.169 153.815 0 0 -500.012z"/>
+   <glyph unicode="y" horiz-adv-x="538" d="M541.004 500.012l-203.171 -540.015c-48.8374,-129.832 -122.341,-194.831 -220.675,-194.831 -37.3171,0 -68.1556,4.16991 -92.3269,12.6746l0 123c20.6611,-12.015 42.8299,-17.9989 67.0012,-17.9989 39.673,0 67.331,18.6586 82.9976,56.1642l26.3387 61.9832 -203.171 499.022 171.013 0 93.1515 -304.168c5.84258,-18.847 10.5072,-41.1808 13.6641,-67.0012l2.0025 0c3.01553,18.9884 8.33981,40.9923 16.1613,65.9882l94.188 305.181 152.826 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Segoe UI";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#437EB9;stroke-width:1.62;stroke-miterlimit:2.61313}
+    .fil0 {fill:#181919}
+    .fil1 {fill:#437EB9}
+    .fnt1 {font-weight:bold;font-size:3.88px;font-family:'Segoe UI'}
+    .fnt0 {font-weight:bold;font-size:7.78px;font-family:'Segoe UI'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="5.64,0.81 26.73,0.81 27.02,0.81 31.44,8.67 31.42,8.69 31.44,8.72 31.03,9.4 27.02,16.53 26.73,16.53 5.64,16.53 5.36,16.53 1.35,9.4 0.94,8.72 0.96,8.69 0.94,8.67 5.36,0.81 "/>
+  <text x="6.89" y="11.55"  class="fil1 fnt0">4</text>
+  <text x="12.44" y="11.55"  class="fil1 fnt0">kyu</text>
+  <text x="11.37" y="11.55"  class="fil1 fnt1"> </text>
+ </g>
+</svg>

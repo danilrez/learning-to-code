@@ -1,0 +1,1 @@
+export const removeChar = (str:string) => str.substring(1, str.length-1);
